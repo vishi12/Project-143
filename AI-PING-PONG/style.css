@@ -1,0 +1,38 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+
+.heading h3{
+    display:inline;
+    font-size:30px;
+}
+
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+#start, #restart, #status{
+    font-size:22px;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.copy_right_footer{
+    background-color:gray;
+    line-height:2;
+    color:white;
+    font-size:20px;
+    text-align:center;
+}
+
+#canvas{
+    background:url("game_console.png");
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
+
